@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StageCap</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="additive_preference_title">additive mode</string>
+    <string name="additive_preference_summary">dont clear existing subtitle, but add to the end</string>
+</resources>
